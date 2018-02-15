@@ -6,5 +6,5 @@ def display_rainbow (colors)
 
  rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
  
- display_rainbowlearn
+ display_rainbow
  
